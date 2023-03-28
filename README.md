@@ -1,3 +1,8 @@
+# About
+This project is my first React project, it implements a simple todo list app using fundamental concepts from the React Libray. It was a fast but very informative introduction from the video https://www.youtube.com/watch?v=hQAHSlTtcmY "Learn React in 30min".
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
